@@ -1,3 +1,0 @@
-/home/mihej/Documents/Documents/Hobbies/Programming/TickoaTTwo/cmake-build-debug/CMakeFiles/TickoaTTwo.dir
-/home/mihej/Documents/Documents/Hobbies/Programming/TickoaTTwo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mihej/Documents/Documents/Hobbies/Programming/TickoaTTwo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

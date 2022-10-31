@@ -1,2 +1,10 @@
 # TickoaTTwo
-the second iteration of TickTackToe, as prompted by Oats Jenkins: https://www.youtube.com/watch?v=ePxrVU4M9uA
+The second iteration of TickTacToe, as prompted by Oats Jenkins: https://www.youtube.com/watch?v=ePxrVU4M9uA
+
+To compile, use the makefile by running:
+
+        make
+
+Thew executable will be called 'TickoaTTwo'. just run it by:
+
+        ./TickoaTTwo
