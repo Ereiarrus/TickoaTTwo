@@ -8,3 +8,9 @@ To compile, use the makefile by running:
 Thew executable will be called 'TickoaTTwo'. just run it by:
 
         ./TickoaTTwo
+
+To compile for debugging, firstly run
+
+        make debug
+
+then 'TickoaTTwo' will have debug symbols enabled.
